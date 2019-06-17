@@ -87,6 +87,11 @@ Abre la consola de ocaml y ejecuta
 
 ``` print_string "hello world";; ```
 
+``` print_newline();; ```
+``` print_int 5;; ```
+``` print_newline();; ```
+``` print_float 5.25;; ```
+
 Con esta instrucción mostramos en la salida estandar la cadena hello world
 
 ### lista de funciones nativas para impresión
