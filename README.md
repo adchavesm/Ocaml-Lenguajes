@@ -87,15 +87,19 @@ Abre la consola de ocaml y ejecuta
 
 ``` print_string "hello world";; ```
 
-``` print_newline();; ```
+Con esta instrucción mostramos en la salida estandar la cadena hello world
 
 ``` print_int 5;; ```
 
-``` print_newline();; ```
+Con esta instrucción mostramos en la salida el dato de tipo entero 5
 
 ``` print_float 5.25;; ```
 
-Con esta instrucción mostramos en la salida estandar la cadena hello world
+Con esta instrucción mostramos en la salida el dato de tipo flotante 5.25
+
+``` print_newline();; ```
+
+Con esta instrucción insertamos un salto de linea
 
 ### lista de funciones nativas para impresión
 
