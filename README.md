@@ -56,6 +56,21 @@ Si no quieres instalar Ocaml en tu sistema puedes buscar editores online, como p
 [https://www.tutorialspoint.com/compile_ocaml_online.php](https://www.tutorialspoint.com/compile_ocaml_online.php)
 
 
+
+#Compilador Estandar y Compilador Interactivo.
+
+Compilara archivos, de texto por ejemplo, como cualquier compilador y ejecutara dichas instrucciones.
+
+Comando en consola:
+
+$Ocaml <NOMBREDEARCHIVO.ml>
+
+Por otro lado si ejecutamos en consola:
+
+$Ocaml
+
+Ingresaremos al compilador interactivo de Ocaml el cual ejecutara las instrucciones que ingresemos, como si pertenecieran a un mismo archivo. Y nos mostrara el resultado de cada ejecucion.
+
 # Tour por el Lenguaje
 
 Ahora sí para empezar a conocer el lenguaje abarcaremos estas secciones
